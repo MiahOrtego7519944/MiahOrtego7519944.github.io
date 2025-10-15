@@ -44,10 +44,10 @@ $(function () {
     createCollectable('steve', 600, 300)
     
     // TODO 4 - Create Cannons
+    createCannon('top', 200, 600)
+     createCannon('bottom', 400, 1000)
+      createCannon('left', 200, 600)
 
-
-    
-    
     //////////////////////////////////
     // ONLY CHANGE ABOVE THIS POINT //
     //////////////////////////////////

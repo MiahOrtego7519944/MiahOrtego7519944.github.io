@@ -41,7 +41,6 @@ circle = draw.randomCircleInArea(canvas, true, true, "#999", 2);
         // TODO 3 : Call the drawCircle() function
 
 
-
         // TODO 7 : Use a loop to create multiple circles
 
 
